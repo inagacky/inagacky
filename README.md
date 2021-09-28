@@ -50,7 +50,7 @@
 - Tomcat
 - Redis
 - Elasticsearch 6
-- Mysql 5, 7
+- Mysql 5, 8
 - Oracle 11g, 12c
 - PostgreSQL
 - Vagrant
